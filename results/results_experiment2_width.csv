@@ -1,0 +1,4 @@
+Convs/Block,Model,Val Accuracy,Val Precision,Val Recall,Val F1-Score,Train Time (s),Predict Time (s)
+2,CNN Width 2,0.9170,0.9181,0.9170,0.9167,115.18,2.05
+3,CNN Width 3,0.9217,0.9231,0.9217,0.9215,117.23,3.00
+4,CNN Width 4,0.9288,0.9295,0.9288,0.9285,189.91,6.53

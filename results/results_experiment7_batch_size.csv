@@ -1,0 +1,4 @@
+Batch Size,Model,Val Accuracy,Val Precision,Val Recall,Val F1-Score,Train Time (s),Predict Time (s)
+16,CNN Batch 16,0.9494,0.9509,0.9494,0.9494,530.69,3.09
+32,CNN Batch 32,0.9441,0.9447,0.9441,0.9439,308.09,6.83
+64,CNN Batch 64,0.9484,0.9490,0.9484,0.9482,219.44,3.47

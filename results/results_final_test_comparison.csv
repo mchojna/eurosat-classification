@@ -1,0 +1,4 @@
+Model,Test Accuracy,Test Precision,Test Recall,Test F1-Score
+Custom CNN (Best),0.9254,0.9289,0.9254,0.9243
+ResNet50,0.9435,0.9436,0.9435,0.9434
+MobileNetV2,0.9248,0.9253,0.9248,0.9247

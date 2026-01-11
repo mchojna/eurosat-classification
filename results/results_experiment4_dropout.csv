@@ -1,0 +1,5 @@
+Dropout Rate,Model,Val Accuracy,Val Precision,Val Recall,Val F1-Score,Train Time (s),Predict Time (s)
+0.0,CNN Dropout 0.0,0.9398,0.9411,0.9398,0.9397,248.93,2.65
+0.2,CNN Dropout 0.2,0.9580,0.9583,0.9580,0.9580,320.94,2.69
+0.4,CNN Dropout 0.4,0.9469,0.9482,0.9469,0.9468,266.59,2.66
+0.6,CNN Dropout 0.6,0.9085,0.9227,0.9085,0.9074,291.60,2.72
