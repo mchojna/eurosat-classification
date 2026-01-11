@@ -1,5 +1,0 @@
-Blocks,Model,Val Accuracy,Val Precision,Val Recall,Val F1-Score,Train Time (s),Predict Time (s)
-2,CNN Depth 2,0.8529,0.8554,0.8529,0.8527,274.38,0.91
-3,CNN Depth 3,0.8914,0.8951,0.8914,0.8918,310.52,1.01
-4,CNN Depth 4,0.9124,0.9134,0.9124,0.9125,341.24,1.07
-5,CNN Depth 5,0.9174,0.9209,0.9174,0.9173,573.66,1.28

@@ -1,5 +1,0 @@
-Base Filters,Model,Val Accuracy,Val Precision,Val Recall,Val F1-Score,Train Time (s),Predict Time (s)
-16,CNN Filters 16,0.9074,0.9085,0.9074,0.9072,511.85,1.56
-32,CNN Filters 32,0.9295,0.9314,0.9295,0.9294,1289.11,2.59
-64,CNN Filters 64,0.9476,0.9485,0.9476,0.9475,3201.03,5.68
-128,CNN Filters 128,0.9605,0.9611,0.9605,0.9606,6249.79,15.77
